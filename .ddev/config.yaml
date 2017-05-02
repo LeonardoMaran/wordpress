@@ -1,4 +1,3 @@
 APIVersion: "1"
-name: wordpress
 type: wordpress
 docroot: htdocs
